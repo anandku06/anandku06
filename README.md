@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Kon'nichiwa, min'na&type=waving&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kon'nichiwa,%20min'na&section=footer&animation=twinkling" />
 </p>
 <h1 align="center">Hi 👋, I'm Anand Kumar</h1>
 <h3 align="center">Exploring the Digital Universe: Full-Stack Explorer Delving into Web Development, DSA, and System Design</h3>
