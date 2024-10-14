@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kon'nichiwa,%20min'na&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=CodeBound&section=footer&animation=twinkling" />
 </p>
 <h1 align="center">Hi 👋, I'm Anand Kumar</h1>
-<h3 align="center">Exploring the Digital Universe: Full-Stack Explorer Delving into Web Development, DSA, and System Design</h3>
+<h3 align="center">Hi there! I'm Anand Kumar, a passionate Full Stack Developer in training with a strong interest in Data Structures and Algorithms (DSA) and System Design. 🌟 Currently pursuing my B.Tech in Computer Science and Engineering, I'm on an exciting journey into Cybersecurity and Open-Source Contributions.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandku06&label=Profile%20views&color=0e75b6&style=flat" alt="anandku06" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandku06" alt="anandku06" /></a> </p>
@@ -15,13 +15,13 @@
 
 - 👯 I’m looking to collaborate on **open-source projects and contributions**
 
-- 🤝 I’m looking for help with **Full Stack Development, DSA and System Design**
+- 🤝 I’m looking for help with **Full Stack Development, DSA, System Design and CyberSecurity as well.**
 
-- 💬 Ask me about **not so good in conversation but a good listener.**
+- 💬 Ask me about **books, any reading suggestions or some tech talks.**
 
-- 📫 How to reach me **trust me you don't need to...**
+- 📫 How to reach me **trust me it's not that hard...**
 
-- ⚡ Fun fact **I don't like these tech shits!!**
+- ⚡ Fun fact **I'm a part of the HacktoberFest 2024 and have recently started my journey on TryHackMe!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
