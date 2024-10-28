@@ -1,10 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Harmonic&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Cognoscente&section=footer&animation=twinkling" />
 </p>
 <h1 align="center">Hi 👋, I'm Anand Kumar</h1>
 <h3 align="center">Hi there! I'm Anand Kumar, a passionate Full Stack Developer in training with a strong interest in Data Structures and Algorithms (DSA) and System Design. 🌟 Currently pursuing my B.Tech in Computer Science and Engineering, I'm on an exciting journey into Cybersecurity and Open-Source Contributions.</h3>
 
 <br>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<br><br>
 
 - 🔭 I’m currently working on **upskilling myself and exploring**
 
@@ -20,6 +23,8 @@
 
 - ⚡ Fun fact **I'm a part of the HacktoberFest 2024 and have recently started my journey on TryHackMe!**
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+<br><br>
 
 ## Connect with me  
 <div align="center">
