@@ -66,4 +66,8 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<img src="https://raw.githubusercontent.com/anandku06/anandku06/output/snake.svg" alt="Snake animation" />
+
+###
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandku06&label=Profile%20views&color=0e75b6&style=flat" alt="anandku06" /> </p>
