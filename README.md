@@ -15,13 +15,13 @@
 
 - 👯 I’m looking to collaborate on **open-source projects and contributions**
 
-- 🤝 I’m looking for help with **Full Stack Development, DSA, System Design and CyberSecurity as well.**
+- 🤝 I’m looking for help with **Full Stack Development, DSA and Cyber Security as well.**
 
 - 💬 Ask me about **books, any reading suggestions or some tech talks.**
 
 - 📫 How to reach me **trust me it's not that hard...**
 
-- ⚡ Fun fact **I'm a part of the HacktoberFest 2024 and have recently started my journey on TryHackMe!**
+- ⚡ Fun fact **I was a part of the HacktoberFest 2024 and have recently started exploring Cyber Security as well!**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 <br><br>
