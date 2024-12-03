@@ -57,9 +57,13 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anandku06&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anandku06&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anandku06&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandku06&hide_border=true&layout=compact&theme=dark" align="center" /></div>  
+<br/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=anandku06&show_icons=true&count_private=true&hide_border=true&theme=dark&hide_border=true&border_radius=5" align="center" /> </div> 
+<br/>
+<br/>
+<div align="center"><a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=anandku06&theme=dark&hide_border=true&border_radius=5" alt="GitHub Streak" /></a> </div> 
+<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anandku06&theme=radical&no-frame=true&no-bg=false&margin-w=4)
