@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Cognoscente&section=footer&animation=twinkling" />
 </p>
 <h1 align="center">Hi 👋, I'm Anand Kumar</h1>
-<h3 align="center">Hi there! I'm Anand Kumar, a passionate Full Stack Developer in training with a strong interest in Data Structures and Algorithms (DSA) and System Design. 🌟 Currently pursuing my B.Tech in Computer Science and Engineering, I'm on an exciting journey into Cybersecurity and Open-Source Contributions.</h3>
+<h3 align="center">Hi there! I'm Anand Kumar, a passionate Full Stack Developer in training with a strong interest in Data Structures and Algorithms (DSA). 🌟 Currently pursuing my B.Tech in Computer Science and Engineering, I'm on an exciting journey into Cybersecurity and Open-Source Contributions.</h3>
 
 <br>
 
