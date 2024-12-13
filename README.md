@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **upskilling myself and exploring**
 
-- 🌱 I’m currently learning **MERN Stack, DSA and System Design**
+- 🌱 I’m currently learning **MERN Stack, DSA and Cyber Security**
 
 - 👯 I’m looking to collaborate on **open-source projects and contributions**
 
