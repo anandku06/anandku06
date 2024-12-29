@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **trust me it's not that hard...**
 
-- ⚡ Fun fact **I was a part of the HacktoberFest 2024 and have recently started exploring Cyber Security as well!**
+- ⚡ Fun fact **I was a part of the HacktoberFest and have recently started exploring Cyber Security as well!**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 <br><br>
