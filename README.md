@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Aficionado&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Philosophe&section=footer&animation=twinkling" />
 </p>
 <h1 align="center">Hi 👋, I'm Anand Kumar</h1>
 <h3 align="center">Hi there! I'm Anand Kumar, a passionate Full Stack Web Developer in training with a strong interest in Data Structures and Algorithms (DSA). 🌟 Currently pursuing my B.Tech in Computer Science and Engineering, I'm on an exciting journey into Cybersecurity and Open-Source Contributions.</h3>
