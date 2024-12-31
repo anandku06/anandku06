@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, DSA and Cyber Security**
 
-- 👯 I’m looking to collaborate on **open-source projects and contributions**
+- 👯 I’m looking to collaborate on **open-source projects** and organisations for **GSOC 2024**
 
 - 🤝 I’m looking for help with **Full Stack Development, DSA and Cyber Security as well.**
 
