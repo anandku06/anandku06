@@ -91,7 +91,7 @@
 ### Backend & Databases
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="70" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js" height="70" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://images.app.goo.gl/5Cct2z3Aze51Xtvr6" alt="Node.js" height="70" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://images.credly.com/images/1c2c86e1-16ce-4e4d-a425-d1ac96bb026d/twitter_thumb_201604_express.png" alt="Express.js" height="70" /></a>  
 <!-- <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://coursera-university-assets.s3.amazonaws.com/05/353594a7964fdeaff4e10615de58c0/MongoDBSquareLogo.png" alt="MongoDB" height="70" /></a>    -->
 <!-- <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="70" /></a>    -->
