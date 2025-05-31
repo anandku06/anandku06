@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **trust me it's not that hard...**
 
-- ⚡ Fun fact **I was a part of the HacktoberFest and have recently started exploring Cyber Security  and GSOC orgs as well!**
+- ⚡ Fun fact **I am highly observant with an eidetic memory!**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 <br><br>
@@ -77,9 +77,9 @@
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="70" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" /></a>  
 <!-- <a href="https://ui.shadcn.com/" targer="_blank"><img style="margin:10px" src="https://archive.org/download/github.com-shadcn-ui-ui_-_2023-08-09_16-03-10/cover.jpg" alt="ShadCn" height="70"/></a> -->
-<!-- <a href="https://ui.aceternity.com/" targer="_blank"><img style="margin:10px" src="https://ph-files.imgix.net/0e9ab899-883b-45fa-927a-1565d8af2e42.png?auto=format" alt="Acertenity" height="70"/></a> -->
+<a href="https://ui.aceternity.com/" targer="_blank"><img style="margin:10px" src="https://ph-files.imgix.net/0e9ab899-883b-45fa-927a-1565d8af2e42.png?auto=format" alt="Acertenity" height="70"/></a>
 <!-- <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="70" /></a>   -->
-<!-- <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="70" /></a>   -->
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="70" /></a>  
   
 </div>
 </td><td valign="top" width="25%">
@@ -95,7 +95,7 @@
 <!-- <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" height="70" /></a> -->
 <!-- <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F1608%2F0f93b179-76bf-4ee7-a838-e8222fbef062.png" alt="Prisma ORM" height="70" /> -->
 <!-- <a href="https://zod.dev/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:1400/1*I2lgr0_K6d9DwQYi2MtjcQ.png" alt="Zod" height="70" /></a>  -->
-<!-- <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="70" /></a> -->
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="70" /></a>
 </a>
 
 </td>
