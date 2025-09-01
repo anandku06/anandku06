@@ -20,7 +20,7 @@
 > Currently exploring: Web3/Blockchain ⛓️ | Rust 🦀 | Books 📚
 
 # ls ./skills
-> Python  C++  Git  Docker  AWS  Linux  CI/CD
+> Developer  Thinker  Lifelong learner
 
 # git log -1
 > "Always building. Always learning."
@@ -44,9 +44,9 @@
 <br><br>
 
 ## My Skill Set  
-
-
-<table><tr><td valign="top" width="25%">
+<table>
+  <caption>What I know...</caption>
+  <tr><td valign="top" width="25%">
 
 
 
