@@ -1,52 +1,47 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Philosophe&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=anandku06@github:~$&fontSize=50&section=footer&animation=twinkling" />
 </p>
+<!--
 <h1 align="center">Hi 👋, I'm Anand Kumar</h1>
 <h3 align="center">Hi there! I'm Anand Kumar, a passionate Full Stack Web Developer in training with a strong interest in Data Structures and Algorithms (DSA). 🌟 Currently pursuing my B.Tech in Computer Science and Engineering, I'm on an exciting journey into Cybersecurity and Open-Source Contributions.</h3>
+-->
+
+```bash
+# whoami
+> Anand Kumar, a undergrad doing Bachelors in Technology under Computer Science
+
+# uname -a
+> Full Stack Developer | Reader | Gamer
+
+# echo $INTERESTS
+> Backend Development, DevOps, Cloud, Linux, Automation
+
+# pwd
+> Currently exploring: Web3/Blockchain ⛓️ | Rust 🦀 | Books 📚
+
+# ls ./skills
+> Python  C++  Git  Docker  AWS  Linux  CI/CD
+
+# git log -1
+> "Always building. Always learning."
+
+# ping anandku06.github.io
+> Connected successfully 🌐
+````
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
+### 🔗 Connect with Me
+
+```bash
+# mail -s "Let's Connect" rishavgupta163@gmail.com
+# open https://linkedin.com/in/anand-kumar-023231291
+```
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-<br><br>
-
-- 🔭 I’m currently working on **upskilling myself and exploring**
-
-- 🌱 I’m currently learning **MERN Stack, DSA and Cyber Security**
-
-- 👯 I’m looking to collaborate on **open-source projects** and organisations for **GSOC 2025**
-
-- 🤝 I’m looking for help with **Full Stack Development, DSA and Cyber Security as well.**
-
-- 💬 Ask me about **books, any reading suggestions or some tech talks.**
-
-- 📫 How to reach me **trust me it's not that hard...**
-
-- ⚡ Fun fact **I am highly observant with an eidetic memory!**
-
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 <br><br>
-
-## Connect with me  
-<div align="center">
-<a href="https://dev.to/anandku06" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/anand-kumar-023231291" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/@AnandKu72911395" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/anandku06" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@anandkr1704" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
-<a href="https://codepen.com/anandku06" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>  
-</div>  
 
 ## My Skill Set  
 
@@ -112,6 +107,9 @@
 </div>
 
 # 📊 GitHub Stats:
+```bash
+# curl github.com/anandku06/stats
+```
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandku06&hide_border=true&layout=compact&theme=dark" align="center" /></div>  
 <br/>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=anandku06&show_icons=true&count_private=true&hide_border=true&theme=dark&border_radius=5" align="center" /> </div> 
@@ -120,13 +118,7 @@
 <div align="center"><a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=anandku06&theme=dark&hide_border=true&border_radius=5" alt="GitHub Streak" /></a> </div> 
 <br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anandku06&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <img src="https://raw.githubusercontent.com/anandku06/anandku06/output/snake.svg" alt="Snake animation" />
 
-###
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anandku06&label=Profile%20views&color=0e75b6&style=flat" alt="anandku06" /> </p>
