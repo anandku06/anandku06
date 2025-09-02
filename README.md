@@ -14,7 +14,7 @@
 > Full Stack Developer | Reader | Gamer
 
 # echo $INTERESTS
-> Backend Development, DevOps, Cloud, Linux, Automation
+> ArchLinux 🐧 | Cyber Security 🧑‍💻 | Games 🎯 
 
 # pwd
 > Currently exploring: Web3/Blockchain ⛓️ | Rust 🦀 | Books 📚
