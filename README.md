@@ -110,10 +110,10 @@
 ```bash
 # curl github.com/anandku06/stats
 ```
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandku06&hide_border=true&layout=compact&theme=dark" align="center" /></div>  
+<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandku06&hide_border=true&layout=compact&theme=dark" align="center" /></div>  
 <br/>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=anandku06&show_icons=true&count_private=true&hide_border=true&theme=dark&border_radius=5" align="center" /> </div> 
-<br/>
+<br/> -->
 <br/>
 <div align="center"><a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=anandku06&theme=dark&hide_border=true&border_radius=5" alt="GitHub Streak" /></a> </div> 
 <br/>
