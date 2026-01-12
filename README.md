@@ -114,8 +114,19 @@
 <br/>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=anandku06&show_icons=true&count_private=true&hide_border=true&theme=dark&border_radius=5" align="center" /> </div> 
 <br/> -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anandku06&bg_color=000000&color=d8d5d5&line=fb8500&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
-<div align="center"><a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=anandku06&theme=dark&hide_border=true&border_radius=5" alt="GitHub Streak" /></a> </div> 
+
+<div style="display: flex; justify-items: center; align-items: center; gap: 20px; margin-top:5px; flex-wrap: wrap;">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandku06&hide_border=true&layout=compact&theme=vision-friendly-dark&langs_count=5" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anandku06&show_icons=true&count_private=true&hide_border=true&theme=vision-friendly-dark&border_radius=5" /> -->
+  
+<a href="https://git.io/streak-stats">
+    <img style="place-items: center;" src="https://nirzak-streak-stats.vercel.app?user=anandku06&theme=vision-friendly-dark&hide_border=true&border_radius=5" alt="GitHub Streak" />
+  </a>
+</div>
+
+<!-- <div align="center"><a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=anandku06&theme=dark&hide_border=true&border_radius=5" alt="GitHub Streak" /></a> </div>  -->
 <br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
